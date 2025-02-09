@@ -11,7 +11,7 @@ This project is a simple Library Management System built using C#. The system al
 - **Create Reading List**: Users can create a reading list with an occasion.
 - **Add Books to Reading List**: Users can manually add books to a reading list while ensuring all genres are different and that there’s at least one common keyword amongst the selected books.
 - **View Reading Lists**: Users can view all created reading lists.
-
+- **Search Reading Lists**: Users can search already created reading list.
 ## Technologies Used
 
 - C#
